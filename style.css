@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+    margin-top: 10px;
     width: 280px;
     display: flex;
     background: #7d7;
